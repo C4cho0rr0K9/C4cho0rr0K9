@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/24/e7/d5/24e7d5c8361af74d19c31fe5530837a4.jpg" alt="Your Profile Picture" width="500px" style="border-radius: 10%;"> 
+  <img width="1250" height="280" alt="Image" src="https://github.com/user-attachments/assets/305d2970-fa23-42e3-96db-a244514cf4b4" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=C4cho0rr0K9&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-<h1 align="center">Hello. I'm Luis F.</h1>
+<h1 align="center">Hello. I'm Luis F (C4cho0rr0K9)</h1>
 
-<h3 align="center">Cybersecurity Student specializing in Red Team Operations. My mission: finding and exploiting vulnerabilities before the adversary does, strictly within **100% ethical and legal boundaries**.</h3>
+<h3 align="center">Cybersecurity Student specializing in Red Team Operations.</h3>
 
 ---
 
