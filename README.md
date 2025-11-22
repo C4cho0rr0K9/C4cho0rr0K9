@@ -1,86 +1,85 @@
 <p align="center">
-  <img src="https://i.imgur.com/8Qp2e0v.png" alt="Banner de Ciberseguridad" width="100%"/> 
+  <img src="https://i.pinimg.com/736x/24/e7/d5/24e7d5c8361af74d19c31fe5530837a4.jpg" alt="Your Profile Picture" width="500px" style="border-radius: 10%;"> 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=c4cho0rr0k9&style=flat-square&color=blue" alt="Contador de Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=C4cho0rr0K9&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-# Hola. Soy Luis F.
+<h1 align="center">Hello. I'm Luis F.</h1>
 
-### Estudiante de Ciberseguridad especializado en Operaciones de Red Team. Mi misión: encontrar y explotar vulnerabilidades antes que el adversario, siempre dentro de límites **100% éticos y legales**.
-
----
-
-## Habilidades y Arsenal
-
-Mi enfoque principal está en la **seguridad ofensiva**, la **higiene online**, y la **Investigación Profunda** (*Deep Research*) a través de los dominios de la web superficial, *deep* y *dark*. **Mi filosofía de trabajo se basa en la estricta adherencia ética.** Creo firmemente en el **Open Source** para construir herramientas de seguridad más resistentes.
-
-<br>
-
-### Competencias Principales
-
-[![Linux](https://img.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Pentesting](https://img.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Networking](https://img.io/badge/Redes%20(Infraestructura)-004D40?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/) [![Deep Research](https://img.io/badge/Deep%20Research-539E43?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/)
-[![Online Hygiene](https://img.io/badge/Higiene%20Online-blueviolet?style=for-the-badge&logo=privacy&logoColor=white)](https://www.eff.org/) 
-[![TryHackMe](https://img.io/badge/TryHackMe-88CCEE?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/C4cho0rr0K9)
-[![Open Source](https://img.io/badge/Open%20Source-555555?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
-
-<br>
+<h3 align="center">Cybersecurity Student specializing in Red Team Operations. My mission: finding and exploiting vulnerabilities before the adversary does, strictly within **100% ethical and legal boundaries**.</h3>
 
 ---
 
-## Mi Entorno
+## Skills & Arsenal
 
-| Categoría | Detalle |
+My core focus is on **offensive security**, **online hygiene**, and **Deep Research** across surface, deep, and dark web domains. **My work philosophy is anchored in strict ethical adherence.** I strongly believe in **Open Source** for building more resilient security tools.
+
+<br>
+
+### Core Competencies
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Pentesting](https://img.shields.io/badge/Penetration%20Testing-DC143C?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/) 
+[![Networking](https://img.shields.io/badge/Networking%20(Infrastructure)-004D40?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/) 
+[![Deep Research](https://img.shields.io/badge/Deep%20Research-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/) 
+[![Online Hygiene](https://img.shields.io/badge/Online%20Hygiene-blueviolet?style=for-the-badge&logo=privacy&logoColor=white)](https://www.eff.org/) 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-88CCEE?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/C4cho0rr0K9)
+[![Open Source](https://img.shields.io/badge/Open%20Source-555555?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
+
+<br>
+
+---
+
+## My Environment
+
+| Category | Detail |
 | :--- | :--- |
-| **Enfoque Actual** | Practicando activamente en TryHackMe y estudiando arquitectura de redes seguras. |
-| **Sistema de Uso Diario** | **Ubuntu**: Utilizado para el 100% de mis tareas generales debido a su estabilidad y versatilidad. |
-| **OS de Pentesting** | **Kali Linux**: Mi entorno de referencia para pruebas de penetración especializadas. |
-| **Lema Clave** | "Si puedes defenderlo, puedes romperlo. Si puedes romperlo, puedes ocultarlo." |
-| **Dato Curioso** | Soy un Outlier Neuro-rítmico. Mi consumo de música de $180,000 \text{ minutos al año}$ me sitúa en la cola extrema derecha de la Campana de Gauss, a $\approx \mathbf{3.5 \text{ a } 4.5\sigma}$ de la media. Esto significa que estoy en el Top 0.1% de los oyentes mundiales. |
+| **Current Focus** | Actively practicing on TryHackMe and studying secure network architecture. |
+| **Daily Driver** | **Ubuntu**: Used for 100% of my general tasks due to its stability and versatility. |
+| **Pen Testing OS** | **Kali Linux**: My go-to environment for specialized penetration testing. |
+| **Key Motto** | "If you can defend it, you can break it. If you can break it, you can hide it." |
+| **Fun Fact** | I am a Neuro-Rhythmic Outlier. My music consumption of $180,000 \text{ minutes per year}$ places me on the extreme right tail of the Gaussian Curve, at $\approx \mathbf{3.5 \text{ to } 4.5\sigma}$ from the mean. This means I am in the Top 0.1% of global listeners. |
 
----
+<br>
 
-## Proyectos Destacados
-
-Por favor, reemplaza los corchetes con tus repositorios reales.
-
-* **[Nombre del Proyecto 1]** - Breve descripción del proyecto o script. ([Link al Repo](https://github.com/c4cho0rr0k9/[nombre-del-repo-1]))
-* **[Nombre del Proyecto 2]** - Implementación de [X] para [Y]. ([Link al Repo](https://github.com/c4cho0rr0k9/[nombre-del-repo-2]))
-* **[Nombre del Proyecto 3]** - Herramienta de [Z] construida con [Tecnología]. ([Link al Repo](https://github.com/c4cho0rr0k9/[nombre-del-repo-3]))
-
----
-
-## Actividad en GitHub
-
-**Nota:** Asegúrate de que **`c4cho0rr0k9`** sea tu nombre de usuario exacto de GitHub.
+### Annual Contributions & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c4cho0rr0k9&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21" alt="Estadísticas de mi Perfil de GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4cho0rr0k9&layout=compact&theme=dark&hide=css,html&langs_count=10" alt="Lenguajes Más Usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=C4cho0rr0K9&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=21&hide_title=true&hide_border=true" alt="My GitHub Profile Stats"/>
 </p>
 
 ---
 
-## Racha de GitHub
+## Featured Projects
+
+Please replace the brackets with your actual repository information.
+
+* **[Project Name 1]** - Brief description of the project or script. ([Link to Repo](https://github.com/C4cho0rr0K9/[repo-name-1]))
+* **[Project Name 2]** - Implementation of [X] for [Y]. ([Link to Repo](https://github.com/C4cho0rr0K9/[repo-name-2]))
+* **[Project Name 3]** - [Z] tool built with [Technology]. ([Link to Repo](https://github.com/C4cho0rr0K9/[repo-name-3]))
+
+---
+
+## GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c4cho0rr0k9&theme=dark&hide_border=true" alt="Racha de Contribuciones de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4cho0rr0K9&layout=compact&theme=dark&hide=css,html&langs_count=10&hide_title=true&hide_border=true" alt="Top Languages Used"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C4cho0rr0K9&theme=dark&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-## Conéctate
+## Get in Touch
 
-Siempre estoy abierto a discusiones sobre seguridad, nuevas oportunidades o la ética del Red Team.
+I am always open to discussions about security, new opportunities, or Red Team ethics.
 
-* **Correo Electrónico (Se prefiere el envío cifrado):** `legal.aware244@passinbox.com` (Mi CV e información privada se envían cifrados a los reclutadores, lo que subraya mi enfoque en la higiene online.)
+* **Email (Encrypted Submissions Preferred):** `legal.aware244@passinbox.com` (My CV and private information are sent encrypted to recruiters, highlighting my focus on online hygiene.)
 
-[![LinkedIn Badge](https://img.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-f-351009274/)
-[![Website Badge](https://img.io/badge/Sitio%20Web-F58025?style=for-the-badge&logo=netlify&logoColor=white)](https://www.c4cho0rr0k9.com)
-[![TryHackMe Badge](https://img.io/badge/TryHackMe-88CCEE?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/C4cho0rr0K9)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-f-351009274/)
+[![Website Badge](https://img.shields.io/badge/Website-F58025?style=for-the-badge&logo=netlify&logoColor=white)](https://www.C4cho0rr0K9.com)
+[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-88CCEE?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/C4cho0rr0K9)
